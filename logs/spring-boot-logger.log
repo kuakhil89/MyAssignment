@@ -1,0 +1,46 @@
+2019-08-28 23:35:54,660 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting NuanceApplication on RLegend with PID 10216 (G:\STS_Development_Java8\nuance\target\classes started by R_Legend in G:\STS_Development_Java8\nuance)
+2019-08-28 23:35:54,663 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-08-28 23:35:55,352 ERROR org.apache.juli.logging.DirectJDKLog [restartedMain] An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-28 23:35:55,404 ERROR org.apache.juli.logging.DirectJDKLog [restartedMain] An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-28 23:35:55,432 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9091 (http)
+2019-08-28 23:35:55,437 ERROR org.apache.juli.logging.DirectJDKLog [restartedMain] An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-28 23:35:55,437 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-08-28 23:35:55,439 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-28 23:35:55,456 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-08-28 23:35:55,457 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 787 ms
+2019-08-28 23:35:55,676 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-28 23:35:55,813 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-08-28 23:35:55,818 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-08-28 23:35:55,853 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9091 (http) with context path ''
+2019-08-28 23:35:55,853 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started NuanceApplication in 1.375 seconds (JVM running for 635.103)
+2019-08-28 23:35:55,858 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2019-08-28 23:36:58,584 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9091-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-28 23:36:58,584 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9091-exec-2] Initializing Servlet 'dispatcherServlet'
+2019-08-28 23:36:58,609 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9091-exec-2] Completed initialization in 15 ms
+2019-08-28 23:36:58,632 INFO com.dicrectory.controller.LoggingController [http-nio-9091-exec-2] An INFO Message
+2019-08-28 23:36:58,634 WARN com.dicrectory.controller.LoggingController [http-nio-9091-exec-2] A WARN Message
+2019-08-28 23:36:58,634 ERROR com.dicrectory.controller.LoggingController [http-nio-9091-exec-2] An ERROR Message
+2019-08-28 23:37:49,610 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-22] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-28 23:37:49,989 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting NuanceApplication on RLegend with PID 10216 (G:\STS_Development_Java8\nuance\target\classes started by R_Legend in G:\STS_Development_Java8\nuance)
+2019-08-28 23:37:49,989 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-08-28 23:37:50,559 ERROR org.apache.juli.logging.DirectJDKLog [restartedMain] An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-28 23:37:50,601 ERROR org.apache.juli.logging.DirectJDKLog [restartedMain] An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-28 23:37:50,634 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9091 (http)
+2019-08-28 23:37:50,636 ERROR org.apache.juli.logging.DirectJDKLog [restartedMain] An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-28 23:37:50,636 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-08-28 23:37:50,636 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-28 23:37:50,656 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-08-28 23:37:50,656 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 665 ms
+2019-08-28 23:37:50,880 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-28 23:37:50,993 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-08-28 23:37:51,003 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-08-28 23:37:51,045 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9091 (http) with context path ''
+2019-08-28 23:37:51,048 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started NuanceApplication in 1.089 seconds (JVM running for 750.295)
+2019-08-28 23:37:51,053 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2019-08-28 23:38:02,473 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9091-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-28 23:38:02,475 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9091-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-08-28 23:38:02,483 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9091-exec-1] Completed initialization in 8 ms
+2019-08-28 23:38:02,490 INFO com.dicrectory.controller.LoggingController [http-nio-9091-exec-1] An INFO Message
+2019-08-28 23:38:02,493 WARN com.dicrectory.controller.LoggingController [http-nio-9091-exec-1] A WARN Message
+2019-08-28 23:38:02,493 ERROR com.dicrectory.controller.LoggingController [http-nio-9091-exec-1] An ERROR Message
+2019-08-28 23:39:09,656 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-30] Shutting down ExecutorService 'applicationTaskExecutor'
